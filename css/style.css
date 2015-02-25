@@ -1,5 +1,13 @@
-h1,body {
-	background-color: #4752e0;
+h1 {
+	background-color: #8f8fa4;
+	font-size: 40px;
+	color:#cccccc;
+	font-family: courier, serif;
+}
+
+body {
+	background-color: #8f8fa4;
+	font-size: 20px;
 	color:#cccccc;
 	font-family: courier, serif;
 }
