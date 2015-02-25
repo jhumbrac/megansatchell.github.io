@@ -1,15 +1,18 @@
+body {
+	background-color: #5e5e74;
+}
 h1 {
-	background-color: #8F8FA4;
 	font-size: 40px;
 	color:#cccccc;
 	font-family: courier, serif;
 	text-align: center;
+	padding-top: 200px
 }
 
-body {
-	background-color: #8F8FA4;
+p {
 	font-size: 20px;
 	color:#cccccc;
 	font-family: courier, serif;
 	text-align: center;
+	padding-top: 250px
 }
