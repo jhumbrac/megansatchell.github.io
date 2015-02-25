@@ -2,12 +2,11 @@ body {
 	background-color: #8F8FA4;
 }
 h1 {
-	padding-top: 200px,
-	background-color: #8F8FA4;
 	font-size: 40px;
 	color:#cccccc;
 	font-family: courier, serif;
 	text-align: center;
+	padding-top: 200px,
 }
 
 p {
