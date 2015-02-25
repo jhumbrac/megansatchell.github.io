@@ -1,13 +1,19 @@
+body {
+	background-color: #8F8FA4;
+}
 h1 {
-	background-color: #4752e0;
+	padding-top: 200px,
+	background-color: #8F8FA4;
 	font-size: 40px;
 	color:#cccccc;
-	font-family: Arial, sans-serif;
+	font-family: courier, serif;
+	text-align: center;
 }
 
-body {
-	background-color: #4752e0;
+p {
 	font-size: 20px;
 	color:#cccccc;
-	font-family: Arial, sans-serif;
+	font-family: courier, serif;
+	text-align: center;
+	padding-top: 300px
 }
