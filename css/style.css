@@ -1,18 +1,15 @@
 body {
 	background-color: #5e5e74;
-}
-h1 {
-	font-size: 40px;
 	color:#cccccc;
+	font-size: 20px;
 	font-family: courier, serif;
 	text-align: center;
-	padding-top: 200px
+}
+h1 {
+	font-size: 2em;
+	margin-top: 5em;
 }
 
 p {
-	font-size: 20px;
-	color:#cccccc;
-	font-family: courier, serif;
-	text-align: center;
-	padding-top: 50px
+	margin-top: 2.5em;
 }
