@@ -1,13 +1,15 @@
 h1 {
-	background-color: #8f8fa4;
+	background-color: #8F8FA4;
 	font-size: 40px;
 	color:#cccccc;
 	font-family: courier, serif;
+	text-align: center;
 }
 
 body {
-	background-color: #8f8fa4;
+	background-color: #8F8FA4;
 	font-size: 20px;
 	color:#cccccc;
 	font-family: courier, serif;
+	text-align: center;
 }
