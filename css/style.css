@@ -11,6 +11,16 @@ h1 {
 	text-transform: lowercase;
 	margin-top: 5em;
 }
+h2{
+	font-size: 1.5em;
+}
+h3{
+	font-size:1.25em;
+}
+li{
+	font-size: 1em;
+	font-style: bold;
+}
 
 p {
 	margin-top: 2.5em;
@@ -18,4 +28,5 @@ p {
 
 #slogan{
 	font-style: italic;
+	text-align: left;
 }
