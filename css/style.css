@@ -1,8 +1,12 @@
+title{
+	font-family: arial, sans-serif;
+	font-size: 2em;
+}
 body {
 	background-color: #fff;
 	color:#43444d;
 	font-size: 20px;
-	font-family: futura, sans-serif;
+	font-family: arial, sans-serif;
 	text-align: left;
 }
 h1 {
@@ -19,11 +23,12 @@ h3{
 }
 li{
 	font-size: 1em;
-	font-style: bold;
+	font-style: normal;
 }
 
 p {
 	margin-top: 2.5em;
+	padding-right: 50px
 }
 
 #slogan{
