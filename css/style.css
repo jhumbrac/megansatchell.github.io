@@ -5,6 +5,12 @@ body {
 	font-family: arial, sans-serif;
 	text-align: left;
 }
+
+#slogan {
+	font-style: italic;
+	text-align: left;
+}
+
 h1 {
 	font-size: 2em;
 	font-weight: bold;
@@ -28,7 +34,3 @@ p {
 
 }
 
-#slogan {
-	font-style: italic;
-	text-align: left;
-}
