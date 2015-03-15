@@ -5,6 +5,9 @@ body {
 	font-family: arial, sans-serif;
 	text-align: left;
 }
+#slogan{
+	font-style: italic;
+}
 
 h1 {
 	font-size: 2em;
