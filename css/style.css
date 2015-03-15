@@ -13,7 +13,7 @@ h1 {
 	font-size: 2em;
 	font-weight: bold;
 	text-transform: lowercase;
-	margin-top: 5em;
+	margin-top: 2.5em;
 }
 
 h2{
@@ -29,8 +29,5 @@ li{
 	font-style: normal;
 }
 
-p {
-	margin-top: 2.5em;
-	padding-right: 50px
-}
+
 
