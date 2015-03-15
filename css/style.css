@@ -1,15 +1,21 @@
 body {
-	background-color: #5e5e74;
-	color:#cccccc;
+	background-color: #000;
+	color:#43444d;
 	font-size: 20px;
-	font-family: courier, serif;
-	text-align: center;
+	font-family: futura, sans-serif;
+	text-align: left;
 }
 h1 {
 	font-size: 2em;
+	font-weight: bold;
+	text-transform: lowercase;
 	margin-top: 5em;
 }
 
 p {
 	margin-top: 2.5em;
+}
+
+#slogan{
+	font-style: italic;
 }
