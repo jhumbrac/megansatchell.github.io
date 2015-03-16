@@ -9,9 +9,8 @@ body {
 section#about {
 	background-color:black; 
 	color:white;
+	padding:.75em;
 	width:744px;
-	margin-left: 0
-
 }
 h1 {
 	font-size: 2em;
