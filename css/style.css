@@ -5,8 +5,7 @@ body {
 	font-size: 20px;
 	font-family: arial, sans-serif;
 	text-align: left;
-	margin-bottom:.5em;
-	margin-left: 1.25em;
+	margin: 1.25em 1.25em .5em 1.25em;
 }
 section#about {
 	background-color:black; 
@@ -19,31 +18,20 @@ h1 {
 	font-weight: bold;
 	margin-bottom:.5em;
 	text-transform: lowercase;
-	margin-bottom:.5em;
-	margin-left: 1.25em;
 }
 
 h2{
 	font-size: 1.5em;
-	margin-bottom:.5em;
-	margin-left: 1.25em;
 }
 
 h3{
 	font-size:1.25em;
-	margin-bottom:.5em;
-	margin-left: 1.25em;
 }
 
 li{
 	font-size: 1em;
 	font-style: normal;
-	margin:0 0 0 1.2em;
 }
-p {
-	margin-bottom:.5em;
-	margin-left: 1.25em;
- }
 
 #slogan{
 	font-size:1.5em;
