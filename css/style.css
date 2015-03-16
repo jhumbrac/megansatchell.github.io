@@ -9,40 +9,39 @@ body {
 section#about {
 	background-color:black; 
 	color:white;
-	padding:1em;
+	padding:.75em;
 	width:744px;
 }
 h1 {
 	font-size: 2em;
 	font-weight: bold;
-	margin-bottom:.5em;
 	text-transform: lowercase;
-	margin: 1.25em 1.25em .5em 1.25em;
+	margin: 1em 1.25em .5em 1em;
 }
 
 h2{
 	font-size: 1.5em;
-	margin: 1.25em 1.25em .5em 1.25em;
+	margin: 1em 1.25em .5em 1em;
 }
 
 h3{
 	font-size:1.25em;
-	margin: 1.25em 1.25em .5em 1.25em;
+	margin: 1em 1.25em .5em 1em;
 }
 
 li{
 	font-size: 1em;
 	font-style: normal;
-	margin-left: 1em;
+	margin-left: 1.5em;
 }
 p{
-	margin: 1.25em 1.25em .5em 1.25em;
+	margin: 1em 1.25em .5em 1em;
 }
 
 #slogan{
 	font-size:1.5em;
 	font-style: italic;
-	margin: 1.25em 1.25em .5em 1.25em;
+	margin: 1em 1.25em .5em 1em;
 }
 
 
