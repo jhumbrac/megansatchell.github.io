@@ -10,6 +10,7 @@ section#about {
 	background-color:black; 
 	color:white;
 	width:744px;
+	margin: 1em 1.25em .5em 1em;
 }
 h1 {
 	font-size: 2em;
@@ -40,7 +41,6 @@ p{
 #slogan{
 	font-size:1.5em;
 	font-style: italic;
-	margin: 1em 1.25em .5em 1em;
 }
 #logo {
 	margin: 1em 1.25em .5em 1em;
