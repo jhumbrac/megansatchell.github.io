@@ -10,23 +10,27 @@ section#about {
 	background-color:black; 
 	color:white;
 	padding:1.25em;
-	width:694px;
+	width:744px;
 }
 h1 {
 	font-size: 2em;
 	font-weight: bold;
 	margin-bottom:.5em;
 	text-transform: lowercase;
+	margin-bottom:.5em;
+	margin-left: 1.25em;
 }
 
 h2{
 	font-size: 1.5em;
 	margin-bottom:.5em;
+	margin-left: 1.25em;
 }
 
 h3{
 	font-size:1.25em;
 	margin-bottom:.5em;
+	margin-left: 1.25em;
 }
 
 li{
@@ -34,7 +38,11 @@ li{
 	font-style: normal;
 	margin:0 0 0 1.2em;
 }
-p { }
+p {
+	margin-bottom:.5em;
+	margin-left: 1.25em;
+ }
+
 #slogan{
 	font-size:1.5em;
 	font-style: italic;
