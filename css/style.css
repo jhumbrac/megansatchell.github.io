@@ -5,6 +5,8 @@ body {
 	font-size: 20px;
 	font-family: arial, sans-serif;
 	text-align: left;
+	margin-bottom:.5em;
+	margin-left: 1.25em;
 }
 section#about {
 	background-color:black; 
