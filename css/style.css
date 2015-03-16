@@ -5,10 +5,12 @@ body {
 	font-family: arial, sans-serif;
 	text-align: left;
 }
-#slogan{
-	font-style: italic;
+section#about {
+	background-color:black; 
+	color:white;
+	padding:1.25em;
+	width:694px;
 }
-
 h1 {
 	font-size: 2em;
 	font-weight: bold;
@@ -27,6 +29,9 @@ li{
 	font-size: 1em;
 	font-style: normal;
 }
-
+#slogan{
+	font-size:1.5em;
+	font-style: italic;
+}
 
 
