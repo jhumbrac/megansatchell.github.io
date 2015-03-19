@@ -1,4 +1,5 @@
 * {margin:0;padding:0;box-sizing:border-box;}
+
 body {
 	background-color: #fff;
 	color:#272525;
@@ -7,18 +8,9 @@ body {
 	text-align: left;
 }
 
-section#about {
-	background-color:black; 
-	color:white;
-	padding:1em 1em 1em 1em;
-	width:744px;
-	text-align: left;
-}
-
 h1 {
 	font-family: 'Lobster', sans-serif;
 	font-size: 1.75em;
-	font-weight: bold;
 	text-transform: lowercase;
 	margin: 1em 1.25em .5em 1em;
 }
@@ -33,6 +25,14 @@ h3{
 	font-family: 'Lobster', sans-serif;
 	font-size:1.25em;
 	margin: 1em 1.25em .5em 1em;
+}
+
+section#about {
+	background-color:black; 
+	color:white;
+	padding:1em 1em 1em 1em;
+	width:744px;
+	text-align: left;
 }
 
 ul{
