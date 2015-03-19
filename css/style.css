@@ -49,9 +49,9 @@ p{
 }
 
 #slogan{
-	font-size:1em;
+	font-size:1.25em;
 	font-style: italic;
-	font-style: bold;
+	margin: 1em 1.25em .5em 1em;
 }
 #logo {
 	margin: 1em 1.25em .5em 1em;
