@@ -4,26 +4,26 @@ body {
 	background-color: #fff;
 	color:#272525;
 	font-size: 16px;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Muli', sans-serif;
 	text-align: left;
 	margin: 1em 1.25em .5em 1em;
 }
 
 h1 {
-	font-family: 'Lobster', sans-serif;
+	font-family: 'Rozha One', serif;
 	font-size: 1.75em;
 	text-transform: lowercase;
 	margin: 1em 1.25em .5em 0em;
 }
 
 h2{
-	font-family: 'Lobster', sans-serif;
+	font-family: 'Rozha One', serif;
 	font-size: 1.50em;
 	margin: 1em 1.25em .5em 0em;
 }
 
 h3{
-	font-family: 'Lobster', sans-serif;
+	font-family: 'Rozha One', serif;
 	font-size:1.25em;
 	margin: 1em 1.25em .5em 1em;
 }
