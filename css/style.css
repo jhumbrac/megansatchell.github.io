@@ -10,7 +10,7 @@ body {
 section#about {
 	background-color:black; 
 	color:white;
-	padding:.75em;
+	padding:1em 1em 1em 1em;
 	width:744px;
 	text-align: left;
 }
