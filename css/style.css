@@ -6,12 +6,14 @@ body {
 	font-family: arial, sans-serif;
 	text-align: left;
 }
+
 section#about {
 	background-color:black; 
 	color:white;
 	padding:.75em;
 	width:744px;
 }
+
 h1 {
 	font-size: 1.75em;
 	font-weight: bold;
@@ -34,6 +36,7 @@ li{
 	font-style: normal;
 	margin: 0em 1.25em .5em 2em;
 }
+
 p{
 	margin: 1em 1.25em .5em 1em;
 }
