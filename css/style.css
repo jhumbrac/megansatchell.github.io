@@ -20,7 +20,12 @@ nav {
 	float:center;
 	padding:1em;
 	margin: 3em 1em 3em 1em;
-
+}
+#sidebar{
+	Float:right;
+	background-color: black;
+	color:white;
+	max-width: 150px;
 }
 section{
 	padding:1em 1em;
