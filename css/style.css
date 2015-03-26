@@ -81,5 +81,9 @@ section#articles{
     column-rule-style: solid;
 }
 
+.blogimage {
+	max-height: 100px 
+	max-width:100px;
+}
 
 
