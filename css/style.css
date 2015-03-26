@@ -12,7 +12,8 @@ nav {
 	outline: solid black .5em;
 	font-style: bold;
 	float:center;
-	padding:3em;
+	padding:1em;
+	margin-top: 3em;
 }
 section{
 	padding:1em 1em;
