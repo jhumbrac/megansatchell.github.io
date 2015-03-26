@@ -24,6 +24,7 @@ section{
 
 h1,h2,h3 {
 	font-family: 'Francois One', sans-serif;
+	margin: 1em 1em 1em 2em;
 }
 h1{
 	font-size: 2em;
