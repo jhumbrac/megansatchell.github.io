@@ -9,7 +9,7 @@ body {
 	margin: 1em 1em 1em 2em;
 }
 nav {
-	display:block;
+	display:inline block;
 	outline: solid black .5em;
 	color: black;
 	font-style: bold;
