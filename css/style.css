@@ -9,8 +9,9 @@ body {
 	margin: 1em 1em 1em 2em;
 }
 nav {
-	display:inline block;
+	display:block;
 	outline: solid black .5em;
+	max-width: 200 px;
 	color: black;
 	font-style: bold;
 	float:center;
