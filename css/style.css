@@ -69,7 +69,6 @@ section#logo {
 }
 
 section#contact {
-	color: black;
 	
 }
 section#blog{
@@ -90,7 +89,7 @@ section#articles{
 
 section#articles2{
 	columns:200 px 3;
-	float: left;
+	float: center;
 	padding:2em;
 	width:33.33%; 
 
