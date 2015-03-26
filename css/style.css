@@ -7,18 +7,16 @@ body {
 	font-family: 'Muli', sans-serif;
 	text-align: left;
 }
-<<<<<<< HEAD
 nav {
 	display:block;
 	outline: solid black 1em;
 	float:right;
+	padding:1em;
 }
 
-=======
 section {
 	padding:1em;
 }
->>>>>>> origin/master
 h1 {
 	font-family: 'Rozha One', serif;
 	font-size: 1.75em;
@@ -58,7 +56,7 @@ p{
 }
 
 #logo {
-	margin: 1em 1.25em .5em 1em;
+	margin: 1em 1.25em 3em 1em;
 }
 
 #contact {
