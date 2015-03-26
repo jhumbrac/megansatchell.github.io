@@ -87,12 +87,12 @@ section#articles{
     column-rule-style: solid;
 }
 
-.columns{
-	float:center;
-	padding:0 2em;
-	width:33.33%; 
 }
-
+.columns {
+	float:left;
+	padding:0 1em;
+	width:33.33%;
+}
 .columns a {
 	border:.15em #fff solid;
 	color:#fff;
@@ -101,6 +101,13 @@ section#articles{
 	text-align:center;
 	text-decoration:none;
 	width:12em;
+}
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
 }
 
 footer{
