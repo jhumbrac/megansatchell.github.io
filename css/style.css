@@ -11,6 +11,7 @@ body {
 nav {
 	display:block;
 	outline: solid black .5em;
+	color: black;
 	font-style: bold;
 	float:center;
 	padding:1em;
@@ -63,6 +64,9 @@ section#logo {
 
 section#contact {
 	
+}
+section#blog{
+
 }
 
 
