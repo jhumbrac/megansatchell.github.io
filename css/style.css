@@ -6,6 +6,7 @@ body {
 	font-size: 16px;
 	font-family: 'Muli', sans-serif;
 	text-align: left;
+	margin: 1em 1em 1em 2em;
 }
 nav {
 	display:block;
@@ -21,7 +22,6 @@ section{
 
 h1,h2,h3 {
 	font-family: 'Francois One', sans-serif;
-	margin: 1em 1.25em .5em 0em;
 }
 h1{
 	font-size: 2em;
@@ -52,17 +52,16 @@ li {
 }
 
 p{
-	margin: 1em 1.25em .5em 0em;
 	line-height: 1.5em;
-	width: 20em;
+	width: 30em;
 }
 
 section#logo {
-	margin-bottom: 3em;
+	
 }
 
 section#contact {
-	margin: 1em 1.25em .5em 0em;
+	
 }
 
 
