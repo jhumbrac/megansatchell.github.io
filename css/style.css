@@ -9,31 +9,27 @@ body {
 }
 nav {
 	display:block;
-	outline: solid black 1em;
-	float:right;
+	outline: solid black .5em;
+	font-style: bold;
+	float:center;
 	padding:1em;
 }
 
-section {
-	padding:1em;
-}
-h1 {
-	font-family: 'Rozha One', serif;
-	font-size: 1.75em;
-	text-transform: lowercase;
+h1,h2,h3 {
+	font-family: 'Francois One', sans-serif;
 	margin: 1em 1.25em .5em 0em;
+}
+h1{
+	font-size: 1.75em;
+	text-transform: uppercase;
 }
 
 h2{
-	font-family: 'Rozha One', serif;
 	font-size: 1.50em;
-	margin: 1em 1.25em .5em 0em;
 }
 
 h3{
-	font-family: 'Rozha One', serif;
 	font-size:1.25em;
-	margin: 1em 1.25em .5em 1em;
 }
 section#about {
 	background-color:black; 
