@@ -93,6 +93,16 @@ section#articles{
 	width:33.33%; 
 }
 
+.columns a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:1.5em 0;
+	text-align:center;
+	text-decoration:none;
+	width:12em;
+}
+
 footer{
 	background-color: black;
 	color:white;
