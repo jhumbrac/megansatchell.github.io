@@ -11,8 +11,11 @@ body {
 nav {
 	display:block;
 	outline: solid black .5em;
+	font-family: 'Muli', sans-serif;
+	font-size: .75em;
+	background-color: black;
 	max-width: 288px;
-	color: black;
+	color: white;
 	font-style: bold;
 	float:center;
 	padding:1em;
