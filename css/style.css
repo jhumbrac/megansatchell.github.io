@@ -11,7 +11,7 @@ body {
 nav {
 	display:block;
 	outline: solid black .5em;
-	max-width: 200 px;
+	max-width: 200px;
 	color: black;
 	font-style: bold;
 	float:center;
