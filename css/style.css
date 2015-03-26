@@ -87,13 +87,12 @@ section#articles{
     column-rule-style: solid;
 }
 
-section#articles2{
-	columns:200px 3;
-	float: center;
-	padding:2em;
+.columns{
+	float:center;
+	padding:0 2em;
 	width:33.33%; 
-
 }
+
 footer{
 	background-color: black;
 	color:white;
