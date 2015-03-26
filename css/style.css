@@ -21,12 +21,7 @@ nav {
 	padding:1em;
 	margin: 3em 1em 3em 1em;
 }
-#sidebar{
-	Float:right;
-	background-color: black;
-	color:white;
-	max-width: 150px;
-}
+
 section{
 	padding:1em 1em;
 }
@@ -93,7 +88,7 @@ section#articles{
 }
 
 section#articles2{
-	columns:200 px 3;
+	columns:200px 3;
 	float: center;
 	padding:2em;
 	width:33.33%; 
