@@ -88,6 +88,14 @@ section#articles{
     column-rule-style: solid;
 }
 
+section#articles2{
+	columns:200 px 3;
+	float: left;
+	padding:2em;
+	width:33.33%; 
+
+}
+
 
 
 
