@@ -8,6 +8,10 @@ body {
 	text-align: left;
 	margin: 1em 1.25em .5em 1em;
 }
+nav {
+	display:block;
+	outline: solid black .5em;
+}
 
 h1 {
 	font-family: 'Rozha One', serif;
