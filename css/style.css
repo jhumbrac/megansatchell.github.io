@@ -6,13 +6,18 @@ body {
 	font-size: 16px;
 	font-family: 'Muli', sans-serif;
 	text-align: left;
-	margin: 1em 1.25em .5em 1em;
 }
+<<<<<<< HEAD
 nav {
 	display:block;
 	outline: solid black .5em;
 }
 
+=======
+section {
+	padding:1em;
+}
+>>>>>>> origin/master
 h1 {
 	font-family: 'Rozha One', serif;
 	font-size: 1.75em;
@@ -31,20 +36,18 @@ h3{
 	font-size:1.25em;
 	margin: 1em 1.25em .5em 1em;
 }
-
 section#about {
 	background-color:black; 
 	color:white;
-	padding:1em 1em 1em 1em;
 	width:744px;
 	text-align: left;
 }
 
 ul{
-	font-size: 1em;
-	font-style: normal;
 	margin: 0em 1.25em .5em 3em;
-	line-height: 1.5em;
+}
+li {
+	margin-top:1em;
 }
 
 p{
