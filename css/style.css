@@ -10,7 +10,8 @@ body {
 <<<<<<< HEAD
 nav {
 	display:block;
-	outline: solid black .5em;
+	outline: solid black 1em;
+	float:right;
 }
 
 =======
