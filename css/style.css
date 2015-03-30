@@ -15,13 +15,18 @@ nav {
 	font-size: .75em;
 	background-color: black;
 	max-width: 288px;
-	color: white;
-	font-style: bold;
-	float:center;
-	padding:1em;
 	margin: 3em 1em 3em 1em;
 }
-
+nav a {
+	color:#fff;
+	font-style: bold;
+	padding:1em;
+	text-align:center;
+	text-decoration:none;
+}
+nav a:hover {
+	text-decoration:underline;
+}
 section{
 	padding:1em 1em;
 }
@@ -99,6 +104,9 @@ section#articles{
 	text-align:center;
 	text-decoration:none;
 	width:12em;
+}
+.columns a:hover {
+	background-color:aliceblue;
 }
 .clearfix:after { 
 	content: "."; 
