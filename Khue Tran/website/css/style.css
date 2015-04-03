@@ -28,6 +28,7 @@ aside{
 	padding: 1em;
 	max-width: 33%;
 }
+
 #logo { 
 	float:left;
 	display: block;
@@ -36,7 +37,6 @@ aside{
 	background-repeat: no-repeat; 
 	padding:3em;
 	vertical-align: center;
-
 }
 
 
@@ -46,8 +46,6 @@ h1 {
 	font-family: 'Satisfy', sans-serif;
 	color:#fff;
 	margin: 0 0 0 1em;
-
-	
 }
 
 
@@ -60,7 +58,6 @@ h2 {
 	color: #fff;
 	margin: 0 0 1em 1em;
 
-
 }
 h3 { 
 	font-size: 1.5em;
@@ -69,8 +66,10 @@ h3 {
 }
 
 #content {
-	display: block;
-	text-align: center;
+	width: 66%;
+	height:500px;
+	border:.5em solid #000;
+	margin: 1.5em;
 	padding: 4em;
 }
 
