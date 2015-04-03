@@ -31,8 +31,9 @@ a {
 	display: block;
 	border-style: solid;
 	border: black;
-	width:66%;
+	max-width:66%;
 	margin:1em;
+
 }
 
 h1 {
