@@ -36,19 +36,20 @@ a {
 h1 {
 	font-size: 3em;
 	font-style: bold;
+	color:#45672A;
 }
 
 h2 {
 	font-size: 2em;
+	color: #654A29;
 
 }
 h3 { 
 	font-size: 1.5em;
+	color:#654A29;;
 
 }
 
-a {
-}
 
 a:hover {
 background-color:#03D8B1;
