@@ -15,14 +15,14 @@ h1, h2, h3, {
 a {
 	text-decoration: uppercase;
 	font-color: black;
-	background-color: #fff;
+	background-color: #032BDA;
 	max-width: 400px;
 	float: right;
 	display: block;
 	border-radius: 50%;
 	padding: 5px 10px;
 	border-right: 1px solid #fff;
-	color:black;
+	color:white;
 	font-family: 'Raleway', sans-serif;
 
 }
@@ -51,6 +51,7 @@ a {
 
 a:hover {
 background-color:#03D8B1;
+color:black;
 
 }
 
