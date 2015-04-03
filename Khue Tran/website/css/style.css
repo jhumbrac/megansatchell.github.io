@@ -33,6 +33,7 @@ a {
 	border: black;
 	color: #272525;
 	background-image: url("wood_border.jpg"); 
+	padding:3em;
 }
 
 h1 {
@@ -40,6 +41,8 @@ h1 {
 	font-style: bold;
 	font-family: 'Satisfy', sans-serif;
 	color:#45672A;
+	margin: 0 0 0 1em;
+
 	
 }
 
