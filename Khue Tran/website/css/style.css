@@ -24,6 +24,7 @@ a {
 	border-right: 1px solid #fff;
 	color:white;
 	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
 
 }
 
@@ -52,6 +53,7 @@ a {
 a:hover {
 background-color:#03D8B1;
 color:black;
+text-decoration: none;
 
 }
 
