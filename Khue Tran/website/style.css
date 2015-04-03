@@ -13,7 +13,7 @@ h1, h2, h3,{
 }
 
 nav{
-	font-weight: strong;
+	font-decoration: uppercase;
 	font-color: black;
 	background-color: #654A29;
 	max-width: 400px;
