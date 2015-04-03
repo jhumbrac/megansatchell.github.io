@@ -31,9 +31,13 @@ a {
 	display: block;
 	border-style: solid;
 	border: black;
-	max-width:66%;
-	margin:1em;
+	
 
+}
+
+#hero:img{
+	max-width: 66%;
+	margin:1em;
 }
 
 h1 {
