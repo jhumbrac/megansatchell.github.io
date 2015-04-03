@@ -36,6 +36,7 @@ aside{
 	background-repeat: no-repeat; 
 	padding:1em;
 	vertical-align: center;
+	margin: 1em;
 }
 
 
@@ -99,6 +100,7 @@ h3 {
 #rsvp {
 	height:500px;
 	border:.5em solid #654A29;
+	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
 }
