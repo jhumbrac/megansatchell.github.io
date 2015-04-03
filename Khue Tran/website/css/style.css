@@ -35,8 +35,8 @@ a {
 
 }
 
-#hero:img{
-	max-width: 66%;
+#hero:img {
+	max-width: 500px;
 	margin:1em;
 }
 
