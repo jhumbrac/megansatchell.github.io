@@ -13,7 +13,7 @@ h1, h2, h3, {
 }
 
 a {
-	text-decoration: uppercase;
+	text-decoration: uppercase none;
 	font-color: black;
 	background-color: #032BDA;
 	max-width: 400px;
@@ -24,7 +24,7 @@ a {
 	border-right: 1px solid #fff;
 	color:white;
 	font-family: 'Raleway', sans-serif;
-	font-size: 2em;
+	font-size: 1.5em;
 
 }
 
