@@ -29,10 +29,10 @@ a {
 
 #hero { 
 	display: block;
-	border-style: black solid;
+	border-style: solid;
+	border: black;
 	width:66%;
 	margin:1em;
-	background-image: Url(https://github.com/megansatchell/megansatchell.github.io/blob/master/Khue%20Tran/website/images/woodgrain.jpg);
 }
 
 h1 {
