@@ -72,39 +72,40 @@ h3 {
 	padding: 4em;
 	max-width: 66%;
 	background-image: url("wood_border.jpg");
+
 }
 #events {
 	height:500px;
 	border:.5em solid #000;
-	margin: 1em 1em;
+	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
 }
 #locations {
 	height:500px;
 	border:.5em solid #000;
-	margin: 1em 1em;
+	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
 }
 #gifts {
 	height:500px;
 	border:.5em solid #000;
-	margin: 1em 1em;
+	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
 }
 #rsvp {
 	height:500px;
 	border:.5em solid #000;
-	margin: 1em 1em;
+	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
 }
 #contact {
 	height:500px;
 	border:.5em solid #000;
-	margin: 1em 1em;
+	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
 }
@@ -122,6 +123,7 @@ text-decoration: none;
 
 p {
 	font-family: 'Karma', serif;
+	width: 66%;
 }
 
 .clearfix:after {
