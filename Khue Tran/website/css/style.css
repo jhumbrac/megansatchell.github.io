@@ -40,7 +40,7 @@ h1 {
 	font-size: 4em;
 	font-style: bold;
 	font-family: 'Satisfy', sans-serif;
-	color:#45672A;
+	color:#fff;
 	margin: 0 0 0 1em;
 
 	
@@ -49,6 +49,7 @@ h1 {
 h2 {
 	font-size: 2em;
 	color: #654A29;
+	background-color: white;
 
 }
 h3 { 
