@@ -7,7 +7,8 @@ body {
 	margin: 1em 1em 1em 2em;
 }
 
-a {
+nav {
+	margin: 85px 0 0 0;
 	text-decoration: none;
 	font-color: black;
 	background-color: #45672A;
