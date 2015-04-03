@@ -15,7 +15,7 @@ h1, h2, h3, {
 a {
 	font-decoration: uppercase;
 	font-color: black;
-	background-color: #654A29;
+	background-color: #fff;
 	max-width: 400px;
 	float: right;
 	display: block;
@@ -23,9 +23,16 @@ a {
 	padding: 5px 10px;
 	text-decoration: none;
 	border-right: 1px solid #fff;
+	color:black;
+	font-family: 'Raleway', sans-serif;
 
 }
 
+#hero { 
+	display: block;
+	width:900px;
+	margin:0;
+}
 
 h1 {
 	font-size: 3em;
