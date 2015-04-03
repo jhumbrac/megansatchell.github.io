@@ -74,7 +74,7 @@ h3 {
 	padding: 4em;
 	max-width: 66%;
 	background-image: url("wood_border.jpg");
-
+	background-repeat: no-repeat; 
 }
 #events {
 	height:500px;
