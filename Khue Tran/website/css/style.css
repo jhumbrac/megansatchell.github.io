@@ -16,8 +16,8 @@ a {
 	text-decoration: uppercase none;
 	font-color: black;
 	background-color: #032BDA;
-	max-width: 400px;
-	float: left;
+	max-width: 33%;
+	float: right;
 	display: block;
 	border-radius: 50%;
 	padding: 1em;
@@ -29,12 +29,13 @@ a {
 
 #hero { 
 	display: block;
-	width:50%;
-	margin:0;
+	width:66%;
+	margin:1em;
 }
 
 h1 {
 	font-size: 3em;
+	font-style: bold;
 }
 
 h2 {
