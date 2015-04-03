@@ -65,12 +65,16 @@ h3 {
 
 }
 
-#content {
+#column {
 	width: 66%;
 	height:500px;
 	border:.5em solid #000;
-	margin: 1.5em;
+	margin: 1em 1em;
 	padding: 4em;
+}
+
+#content {
+
 }
 
 a:hover {
