@@ -32,6 +32,7 @@ a {
 	border-style: solid;
 	border: black;
 	color: #272525;
+	background-image: url("wood_border.jpg"); 
 }
 
 h1 {
@@ -39,7 +40,7 @@ h1 {
 	font-style: bold;
 	font-family: 'Satisfy', sans-serif;
 	color:#45672A;
-	background-image: url("wood_border.jpg"); 
+	
 }
 
 h2 {
