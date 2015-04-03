@@ -7,10 +7,6 @@ body {
 	margin: 1em 1em 1em 2em;
 }
 
-h1, h2, h3, {
-	font-family: 'Raleway', sans-serif;
-}
-
 a {
 	text-decoration: none;
 	font-color: black;
@@ -26,6 +22,12 @@ a {
 
 }
 
+aside{
+	float:right;
+	background-color:#03D8B1; 
+	padding: 1em;
+	max-width: 33%;
+}
 #hero { 
 	float:left;
 	display: block;
@@ -37,6 +39,7 @@ a {
 
 }
 
+
 h1 {
 	font-size: 4em;
 	font-style: bold;
@@ -46,6 +49,11 @@ h1 {
 
 	
 }
+
+
+h2, h3, {
+	font-family: 'Raleway', sans-serif;
+	}
 
 h2 {
 	font-size: 2em;
