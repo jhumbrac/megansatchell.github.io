@@ -65,7 +65,42 @@ h3 {
 
 }
 
-#column {
+#wedding {
+	height:500px;
+	border:.5em solid #000;
+	margin: 1em 1em;
+	padding: 4em;
+	max-width: 66%;
+}
+#events {
+	height:500px;
+	border:.5em solid #000;
+	margin: 1em 1em;
+	padding: 4em;
+	max-width: 66%;
+}
+#locations {
+	height:500px;
+	border:.5em solid #000;
+	margin: 1em 1em;
+	padding: 4em;
+	max-width: 66%;
+}
+#gifts {
+	height:500px;
+	border:.5em solid #000;
+	margin: 1em 1em;
+	padding: 4em;
+	max-width: 66%;
+}
+#rsvp {
+	height:500px;
+	border:.5em solid #000;
+	margin: 1em 1em;
+	padding: 4em;
+	max-width: 66%;
+}
+#contact {
 	height:500px;
 	border:.5em solid #000;
 	margin: 1em 1em;
