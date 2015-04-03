@@ -30,10 +30,10 @@ a {
 	float:left;
 	display: block;
 	width: 66%;
-	color: #272525;
 	background-image: url("wood_border.jpg");
 	background-repeat: no-repeat; 
 	padding:3em;
+
 }
 
 h1 {
@@ -48,8 +48,7 @@ h1 {
 
 h2 {
 	font-size: 2em;
-	color: #654A29;
-	background-color: white;
+	color: #fff;
 	margin: 0 0 0 1em;
 
 
