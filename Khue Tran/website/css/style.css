@@ -31,7 +31,6 @@ a {
 	display: block;
 	border-style: solid;
 	border: black;
-	background-image: url("http://github.com/megansatchell/megansatchell.github.io/blob/master/Khue%20Tran/website/wood_border.jpg"); 
 	color: #272525;
 }
 
@@ -40,6 +39,7 @@ h1 {
 	font-style: bold;
 	font-family: 'Satisfy', sans-serif;
 	color:#45672A;
+	background-image: url("wood_border.jpg"); 
 }
 
 h2 {
