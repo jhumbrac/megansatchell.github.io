@@ -1,10 +1,9 @@
 * {margin:0;padding:0;box-sizing:border-box;}
+
 body {
 	color:#272525;
 	font-size: 16px;
 	font-family: 'Karma', serif;
-	text-align: left;
-	margin: 1em 1em 1em 2em;
 }
 
 a {
@@ -45,7 +44,7 @@ h1 {
 	font-style: bold;
 	font-family: 'Satisfy', sans-serif;
 	color:#fff;
-	margin: 0 0 0 1em;
+	margin: 0 0 03D8B1 1em;
 }
 
 
