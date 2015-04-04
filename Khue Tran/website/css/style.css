@@ -71,9 +71,8 @@ h3 {
 	display: block;
 	background-image: url("heart.png");
 	background-repeat: no-repeat; 
-	width: 66%;
+	border: 66%;
 	clear:both;
-	margin: 1em;
 	padding: 4em;
 }
 
