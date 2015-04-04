@@ -106,6 +106,7 @@ h4 {
 	max-width: 66%;
 	background-image: url("locations.jpg");
 	clear:both;
+	img:center;
 }
 
 #gifts {
