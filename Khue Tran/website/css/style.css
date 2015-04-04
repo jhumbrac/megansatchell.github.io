@@ -132,7 +132,8 @@ p {
 
 Footer {
 	text-align: center;
-	background-color: #fff;
+	text-decoration: lowercase;
+	background-color: #000;
 	color:white;
 } 
 .clearfix:after {
