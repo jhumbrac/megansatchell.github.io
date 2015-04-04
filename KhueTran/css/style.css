@@ -110,6 +110,7 @@ a {
 	clear:both;
 	margin: 1em 0;
 	border:2em;
+	padding:3em;
 }
 #welcome {
 	background-image: url("welcome.jpg");
