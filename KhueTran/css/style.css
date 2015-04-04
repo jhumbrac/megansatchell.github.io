@@ -84,7 +84,7 @@ a {
 .feature {
 	float: left;
 	width: 260px;
-  	height: 300px;
+  	height: 600px;
 	padding: 20px;
 	margin: 0;
 	clear:both;
@@ -100,78 +100,40 @@ a {
 	clear:both;
 }
 
-.feature2 {
-	float: left;
-	width: 260px;
-  	height: 300px;
-	padding: 20px;
-	margin: 0;
-	clear:both;
-}
-
-.feature2 a {
-	border:.15em #fff solid;
-	color:#fff;
-	display:block;
-	padding:3em 0;
-	text-align:center;
-	text-decoration:none;
-}
-
-#welcome {
+.banner{
+	max-height: auto;
+	max-width: auto;
 	margin: 1em;
 	padding: 4em;
-	background-image: url("welcome.jpg");
 	background-repeat: no-repeat;
 	clear:both;
+}
+#welcome {
+	background-image: url("welcome.jpg");
 }
 
 #wedding {
-	margin: 1em;
-	padding: 4em;
 	background-image: url("wedding.jpg");
-	background-repeat: no-repeat;
-	clear:both;
 }
 
 #events {
-	margin: 1em;
-	padding: 4em;
 	background-image: url("events.jpg");
-	background-repeat: no-repeat;
-	clear:both;
 }
 
 #locations {
-	margin: 1em;
-	padding: 4em;
 	background-image: url("locations.jpg");
-	background-repeat: no-repeat;
-	clear:both;
 }
 
 #gifts {
-	margin: 1em;
-	padding: 4em;
 	background-image: url("gifts.jpg");
-	background-repeat: no-repeat;
-	clear:both;
 }
 
 #rsvp {
-	margin: 1em;
-	padding: 4em;
 	background-image: url("rsvp.jpg");
-	background-repeat: no-repeat;
-	clear:both;
 }
 
 #contact {
-	margin: 1em;
-	padding: 4em;
 	background-image: url("contact.jpg");
-	background-repeat: no-repeat;
-	clear:both;
 }
 
 a:hover {
