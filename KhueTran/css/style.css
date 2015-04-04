@@ -40,7 +40,6 @@ h4 {
 	background-image: url("woodgrain.jpg");
 	margin: 1em;
 	clear:both;
-	max-height: 416px;
 	max-width: 1400px;
 }
 
@@ -100,7 +99,6 @@ a {
 }
 
 .banner{
-	max-height: 416px;
 	max-width: 1400px;
 	margin: 1em;
 	padding: 4em;
