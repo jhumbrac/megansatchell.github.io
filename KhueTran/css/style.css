@@ -32,7 +32,11 @@ a {
 	margin: 1em;
 	color:white;
 }
+nav {
+display: block;
+float left;
 
+}
 
 h1 {
 	font-size: 4em;
