@@ -5,6 +5,9 @@ body {
 	font-size: 16px;
 	font-family: 'Karma', serif;
 }
+nav {
+	float left;
+}
 
 a {
 	text-decoration: none;
@@ -32,11 +35,7 @@ a {
 	margin: 1em;
 	color:white;
 }
-nav {
-display: block;
-float left;
 
-}
 
 h1 {
 	font-size: 4em;
