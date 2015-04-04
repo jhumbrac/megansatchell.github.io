@@ -43,28 +43,26 @@ h1 {
 }
 
 
-h2, h3, {
-	font-family: 'Raleway', sans-serif;
-	}
-
 h2 {
 	font-size: 2em;
 	color: #fff;
+	font-family: 'Raleway', sans-serif;
 	margin: 0 0 0 1em;
 
 }
+
 h3 { 
 	font-size: 2em;
 	color:#654A29;
+	font-family: 'Satisfy', sans-serif;
 
 }
 
-#heart{
+.welcome{
 	float: left;
 	display: block;
 	border: 66%;
-	clear:both;
-	margin: 1em;
+	background-image: url("heart.png");
 }
 
 #wedding {
