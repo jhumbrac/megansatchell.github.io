@@ -40,8 +40,8 @@ h4 {
 	background-image: url("woodgrain.jpg");
 	margin: 1em;
 	clear:both;
-	max-width: auto;
-	max-height: auto;
+	max-height: 416px;
+	max-width: 1400px;
 }
 
 nav {
@@ -101,8 +101,8 @@ a {
 }
 
 .banner{
-	max-height: auto;
-	max-width: auto;
+	max-height: 416px;
+	max-width: 1400px;
 	margin: 1em;
 	padding: 4em;
 	background-repeat: no-repeat;
