@@ -6,28 +6,49 @@ body {
 	font-family: 'Karma', serif;
 }
 
-#logo {
+a {
+	text-decoration: none;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #697C46;
+	border: 33%;
+	float: right;
 	display: block;
-	max-width: 33%;
-	margin-top: 2em;
+	padding: 1em;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+	margin-top: 1em;
 }
+
+#logo { 
+	float:left;
+	display: block;
+	width: 66%;
+	background-image: url("woodgrain.jpg");
+	background-repeat: no-repeat; 
+	padding:1em;
+	vertical-align: center;
+	margin: 1em;
+	color:white;
+}
+
 
 h1 {
 	font-size: 4em;
 	font-style: bold;
 	font-family: 'Satisfy', sans-serif;
-	color:#697C46;
-	margin: 0 0 0 1em;
-	float: left;
+	color:#fff;
+	margin: 0 0 0 .5em;
 }
 
 
 h2 {
 	font-size: 2em;
-	color: #697C46;
+	color: #fff;
 	font-family: 'Satisfy', sans-serif;
 	margin: 0 0 0 1em;
-	float: left;
+
 }
 
 h3 { 
@@ -37,132 +58,152 @@ h3 {
 }
 
 h4 { 
-	font-size: 2em;
-	color:#fff;
-	font-family: 'Satisfy', sans-serif;
-	margin: 0 0 0 1em;
-}
-
-h5 { 
 	font-size: 1.25em;
-	color:#fff;
+	color:#654A29;
 	font-family: 'Karma', serif;
 	margin: 0 0 0 1em;
-}
-
-nav {
-	display: block;
-	float: left;
-	margin: 1em;
-}
-
-nav a {
-	text-decoration: none;
-	text-align: center;
-	background-color: #697C46;
-	padding: 1em;
-	color: white;
-	font-family: 'Raleway', sans-serif;
-	font-size: 1em;
-}
-
-nav a:hover {
-	background-color:rgba(105, 124, 70, 0.6);
-	color:black;
-	text-decoration: none;
 }
 
 p {
 	font-family: 'Karma', serif;
 	width: 66%;
+}
+
+#welcome {
+	height:800px;
+	border:.5em solid #654A29;
+	margin: 1em;
+	padding: 4em;
+	max-width: 66%;
+	background-image: url("welcome.jpg");
+	background-repeat: no-repeat; 
+	clear:both;
+}
+
+#wedding {
+	height:400px;
+	margin: 1em;
+	padding: 4em;
+	max-width: 66%;
+	background-image: url("wedding.jpg");
+	background-repeat: no-repeat; 
+	clear:both;
+}
+
+#events {
+	height:400px;
+	margin: 1em;
+	padding: 4em;
+	max-width: 66%;
+	background-image: url("pool.png");
+	clear:both;
+}
+
+#locations {
+	height:400px;
+	margin: 1em;
+	padding: 4em;
+	max-width: 66%;
+	background-image: url("locations.jpg");
+	clear:both;
+}
+
+#gifts {
+	height:400px;
+	margin: 1em;
+	padding: 4em;
+	max-width: 66%;
+	background-image: url("gifts.jpg");
+	background-repeat: no-repeat; 
+	clear:both;
+}
+
+#rsvp {
+	height:400px;
+	margin: 1em;
+	padding: 4em;
+	max-width: 66%;
+	background-image: url("rsvp.jpg");
+	clear:both;
+}
+
+#contact {
+	height:400px;
+	margin: 1em;
+	padding: 4em;
+	max-width: 66%;
+	background-image: url("contact.jpg");
+	clear:both;
+}
+
+a:hover {
+	background-color:rgba(105, 124, 70, 0.9);
 	color:black;
-}
-
-a {
 	text-decoration: none;
-	text-align: center;
-	background-color: #697C46;
-	padding: 1em;
-	color: white;
-	font-family: 'Raleway', sans-serif;
-	font-size: 1em;
-	margin-top: 1em;
 }
-.feature {
-	display: block;
+
+.column {
 	float: left;
-	width: 33%;
+	width: 400px;
+  	height: 300px;
 	padding: 20px;
-	border:1em;
-	color:white;
-	margin-bottom: 3em;
-
+	margin: 0 2em;
 }
 
-.feature a {
+#column a {
 	border:.15em #fff solid;
 	color:#fff;
 	display:block;
 	padding:1em 0;
 	text-align:center;
 	text-decoration:none;
-	clear:both;
+	width:12em;
 }
 
-#welcome {
-	display: block;
-	background: url("welcome.jpg")no-repeat;
-	background-size: cover;
-	padding-top: 30em;
-	margin-bottom: 10em;
+.bigcolumn {
+	float: left;
+	width: 410px;
+  	height: 700px;
+	padding: 5px;
+	margin: 0 2em;
 }
 
-#wedding {
-	background-image: url("wedding.jpg")no-repeat;
-	background-size: auto;
-	padding-top: 30em;
-	margin-bottom: 10em;
+#bigcolumn a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:1em 0;
+	text-align:center;
+	text-decoration:none;
+	width:12em;
 }
 
-#events {
-	background-image: url("events.jpg")no-repeat;
-	background-size: cover;
-	padding-top: 30em;
-	margin-bottom: 10em;
+
+.familycolumn {
+	float: left;
+	width: 375px;
+  	height: 300px;
+	padding: 10px;
+	margin: 0 2em;
 }
 
-#locations {
-	background-image: url("locations.jpg")no-repeat;
-	background-size: cover;
-	padding-top: 30em;
-	margin-bottom: 10em;
+#familycolumn a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:1em 0;
+	text-align:center;
+	text-decoration:none;
+	width:12em;
 }
 
-#gifts {
-	background-image: url("gifts.jpg")no-repeat;
-	background-size: cover;
-	padding-top: 30em;
-	margin-bottom: 10em;
+
+
+#moodboard {
+	padding: 20px;
+	margin: 0 2em;
 }
 
-#rsvp {
-	background-image: url("rsvp.jpg")no-repeat;
-	background-size: cover;
-	padding-top: 30em;
-	margin-bottom: 10em;
-}
-
-#contact {
-	background-image: url("contact.jpg")no-repeat;
-	padding-top: 30em;
-	margin-bottom: 10em;
-}
-
-a:hover {
-	background-color:#03D8B1;
-	color:black;
-	text-decoration: none;
-}
 
 Footer {
 	text-align: center;

@@ -1,0 +1,179 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+
+body {
+	color:#272525;
+	font-size: 16px;
+	font-family: 'Karma', serif;
+}
+
+#logo {
+	display: block;
+	max-width: 33%;
+	margin-top: 2em;
+}
+
+h1 {
+	font-size: 4em;
+	font-style: bold;
+	font-family: 'Satisfy', sans-serif;
+	color:#697C46;
+	margin: 0 0 0 1em;
+	float: left;
+}
+
+
+h2 {
+	font-size: 2em;
+	color: #697C46;
+	font-family: 'Satisfy', sans-serif;
+	margin: 0 0 0 1em;
+	float: left;
+}
+
+h3 { 
+	font-size: 2em;
+	color:#654A29;
+	font-family: 'Satisfy', sans-serif;
+}
+
+h4 { 
+	font-size: 2em;
+	color:#fff;
+	font-family: 'Satisfy', sans-serif;
+	margin: 0 0 0 1em;
+}
+
+h5 { 
+	font-size: 1.25em;
+	color:#fff;
+	font-family: 'Karma', serif;
+	margin: 0 0 0 1em;
+}
+
+nav {
+	display: block;
+	float: left;
+	margin: 1em;
+}
+
+nav a {
+	text-decoration: none;
+	text-align: center;
+	background-color: #697C46;
+	padding: 1em;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+}
+
+nav a:hover {
+	background-color:rgba(105, 124, 70, 0.6);
+	color:black;
+	text-decoration: none;
+}
+
+p {
+	font-family: 'Karma', serif;
+	width: 66%;
+	color:black;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+	background-color: #697C46;
+	padding: 1em;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+	margin-top: 1em;
+}
+.feature {
+	display: block;
+	float: left;
+	width: 33%;
+	padding: 20px;
+	border:1em;
+	color:white;
+	margin-bottom: 3em;
+
+}
+
+.feature a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:1em 0;
+	text-align:center;
+	text-decoration:none;
+	clear:both;
+}
+
+#welcome {
+	display: block;
+	background: url("welcome.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
+}
+
+#wedding {
+	background-image: url("wedding.jpg")no-repeat;
+	background-size: auto;
+	padding-top: 30em;
+	margin-bottom: 10em;
+}
+
+#events {
+	background-image: url("events.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
+}
+
+#locations {
+	background-image: url("locations.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
+}
+
+#gifts {
+	background-image: url("gifts.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
+}
+
+#rsvp {
+	background-image: url("rsvp.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
+}
+
+#contact {
+	background-image: url("contact.jpg")no-repeat;
+	padding-top: 30em;
+	margin-bottom: 10em;
+}
+
+a:hover {
+	background-color:#03D8B1;
+	color:black;
+	text-decoration: none;
+}
+
+Footer {
+	text-align: center;
+	text-decoration: lowercase;
+} 
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
