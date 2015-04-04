@@ -85,10 +85,10 @@ a {
 .feature {
 	display: block;
 	float: left;
-	width: 260px;
-  	height: 300px;
+	width: 33%;
 	padding: 20px;
-	margin: 0;
+	border:3em;
+	border-style: solid black;
 }
 
 .feature a {
