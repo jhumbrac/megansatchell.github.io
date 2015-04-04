@@ -12,7 +12,7 @@ a {
 	vertical-align: middle;
 	background-color: #45672A;
 	border: 33%;
-	float: right;
+	float: left;
 	display: block;
 	padding: 1em;
 	color: white;
@@ -214,8 +214,6 @@ a:hover {
 Footer {
 	text-align: center;
 	text-decoration: lowercase;
-	background-color: #032BDA;
-	color:white;
 } 
 
 .clearfix:after {
