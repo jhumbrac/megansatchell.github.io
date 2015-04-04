@@ -109,16 +109,10 @@ a {
 	clear:both;
 }
 
-.banner {
-	display: block;
-	text-align: left;
-	clear:both;
-	margin: 1em 0;
-	border:3em;
-	padding:3em;
-}
 #welcome {
-	background-image: url("welcome.jpg");
+	background: url("welcome.jpg")no-repeat fixed center top;
+	background-size: cover;
+	padding-top: 30em;
 }
 
 #wedding {
