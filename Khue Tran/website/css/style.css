@@ -184,6 +184,14 @@ a:hover {
 	width:12em;
 }
 
+.family {
+	float: left;
+	width: 350px;
+  	height: 300px;
+	padding: 20px;
+	margin: 0 2em;
+}
+
 #moodboard {
 	padding: 20px;
 	margin: 0 2em;
@@ -193,7 +201,7 @@ a:hover {
 Footer {
 	text-align: center;
 	text-decoration: lowercase;
-	background-color: #000;
+	background-color: #032BDA;
 	color:white;
 } 
 
