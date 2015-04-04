@@ -38,6 +38,8 @@ h4 {
 
 #logo { 
 	background-image: url("woodgrain.jpg");
+	float: left;
+	margin: 1em;
 }
 
 .maxwidth {
@@ -96,10 +98,8 @@ a {
 
 #wedding {
 	height:400px;
-	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
-	max-width: 66%;
 	background-image: url("wedding.jpg");
 	background-repeat: no-repeat; 
 	clear:both;
@@ -107,30 +107,24 @@ a {
 
 #events {
 	height:400px;
-	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
-	max-width: 66%;
 	background-image: url("pool.png");
 	clear:both;
 }
 
 #locations {
 	height:400px;
-	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
-	max-width: 66%;
 	background-image: url("locations.jpg");
 	clear:both;
 }
 
 #gifts {
 	height:400px;
-	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
-	max-width: 66%;
 	background-image: url("gifts.jpg");
 	background-repeat: no-repeat; 
 	clear:both;
@@ -138,20 +132,16 @@ a {
 
 #rsvp {
 	height:400px;
-	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
-	max-width: 66%;
 	background-image: url("rsvp.jpg");
 	clear:both;
 }
 
 #contact {
 	height:400px;
-	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
-	max-width: 66%;
 	background-image: url("contact.jpg");
 	clear:both;
 }
@@ -164,9 +154,9 @@ a:hover {
 
 .bigcolumn {
 	float: left;
-	width: 375px;
+	width: 350px;
   	height: 700px;
-	padding: 10px;
+	padding: 5px;
 	margin: 0 2em;
 }
 
