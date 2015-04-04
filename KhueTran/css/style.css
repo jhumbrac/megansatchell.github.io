@@ -129,6 +129,7 @@ a {
 	margin: 1em;
 	padding: 4em;
 	background-image: url("welcome.jpg");
+	background-repeat: no-repeat;
 	clear:both;
 }
 
@@ -136,46 +137,47 @@ a {
 	margin: 1em;
 	padding: 4em;
 	background-image: url("wedding.jpg");
+	background-repeat: no-repeat;
 	clear:both;
 }
 
 #events {
-	height:400px;
 	margin: 1em;
 	padding: 4em;
 	background-image: url("events.jpg");
+	background-repeat: no-repeat;
 	clear:both;
 }
 
 #locations {
-	height:400px;
 	margin: 1em;
 	padding: 4em;
 	background-image: url("locations.jpg");
+	background-repeat: no-repeat;
 	clear:both;
 }
 
 #gifts {
-	height:400px;
 	margin: 1em;
 	padding: 4em;
 	background-image: url("gifts.jpg");
+	background-repeat: no-repeat;
 	clear:both;
 }
 
 #rsvp {
-	height:400px;
 	margin: 1em;
 	padding: 4em;
 	background-image: url("rsvp.jpg");
+	background-repeat: no-repeat;
 	clear:both;
 }
 
 #contact {
-	height:400px;
 	margin: 1em;
 	padding: 4em;
 	background-image: url("contact.jpg");
+	background-repeat: no-repeat;
 	clear:both;
 }
 
