@@ -111,8 +111,7 @@ a {
 .banner {
 	display: block;
 	height:416;
-	padding: 300px;
-	text-align: center;
+	text-align: left;
 	clear:both;
 	margin: 1em 0;
 	border:3em;
