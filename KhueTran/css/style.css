@@ -164,9 +164,9 @@ a:hover {
 
 .bigcolumn {
 	float: left;
-	width: 410px;
+	width: 375px;
   	height: 700px;
-	padding: 5px;
+	padding: 10px;
 	margin: 0 2em;
 }
 
@@ -202,7 +202,6 @@ a:hover {
 	padding: 20px;
 	margin: 0 2em;
 }
-
 
 Footer {
 	text-align: center;
