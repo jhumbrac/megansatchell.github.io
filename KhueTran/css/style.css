@@ -112,50 +112,49 @@ a {
 }
 
 #welcome {
-	background: url("welcome.jpg") no-repeat;
-	background-size: 1400px 417px;
+	background: url("welcome.jpg")no-repeat;
+	background-size: cover;
 	padding-top: 30em;
 	margin-bottom: 10em;
 }
 
 #wedding {
-	background-image: url("wedding.jpg") no-repeat;
-	background-size: 1400px 414px;
+	background-image: url("wedding.jpg")no-repeat;
+	background-size: cover;
 	padding-top: 30em;
 	margin-bottom: 10em;
 }
 
 #events {
-	background-image: url("events.jpg") no-repeat;
-	background-size: 1400px 413px;
+	background-image: url("events.jpg")no-repeat;
+	background-size: cover;
 	padding-top: 30em;
 	margin-bottom: 10em;
 }
 
 #locations {
-	background-image: url("locations.jpg") no-repeat;
-	background-size: 1400px 414px;
+	background-image: url("locations.jpg")no-repeat;
+	background-size: cover;
 	padding-top: 30em;
 	margin-bottom: 10em;
 }
 
 #gifts {
-	background-image: url("gifts.jpg") no-repeat;
-	background-size: 1400px 415px;
+	background-image: url("gifts.jpg")no-repeat;
+	background-size: cover;
 	padding-top: 30em;
 	margin-bottom: 10em;
 }
 
 #rsvp {
-	background-image: url("rsvp.jpg") no-repeat;
-	background-size: 1400px 414px;
+	background-image: url("rsvp.jpg")no-repeat;
+	background-size: cover;
 	padding-top: 30em;
 	margin-bottom: 10em;
 }
 
 #contact {
-	background-image: url("contact.jpg") no-repeat;
-	background-size: 1400px 417px;
+	background-image: url("contact.jpg")no-repeat;
 	padding-top: 30em;
 	margin-bottom: 10em;
 }
