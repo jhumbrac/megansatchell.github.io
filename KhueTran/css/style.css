@@ -14,8 +14,6 @@ body {
 
 #logo { 
 	background-image: url("woodgrain.jpg");
-	background-repeat: no-repeat; 
-	color:white;
 }
 
 nav {
@@ -39,8 +37,6 @@ nav a:hover {
 	color:black;
 	text-decoration: none;
 }
-
-
 
 h1 {
 	font-size: 4em;
