@@ -125,8 +125,23 @@ a:hover {
 background-color:#03D8B1;
 color:black;
 text-decoration: none;
-
 }
+
+.columns {
+	float:left;
+	width:66%;
+}
+.columns a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:1em 0;
+	text-align:center;
+	text-decoration:none;
+	width:12em;
+}
+.columns a:hover {
+	background-color:aliceblue;
 
 p {
 	font-family: 'Karma', serif;
