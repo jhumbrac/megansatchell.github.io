@@ -137,7 +137,7 @@ p {
 }
 
 a:hover {
-	background-color:rgba(105, 124, 70, 0.9);
+	background-color:rgba(105, 124, 70, 0.6);
 	color:black;
 	text-decoration: none;
 }
