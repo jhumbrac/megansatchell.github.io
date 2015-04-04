@@ -119,27 +119,45 @@ a {
 }
 
 #wedding {
-	background-image: url("wedding.jpg");
+	background-image: url("wedding.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
 }
 
 #events {
-	background-image: url("events.jpg");
+	background-image: url("events.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
 }
 
 #locations {
-	background-image: url("locations.jpg");
+	background-image: url("locations.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
 }
 
 #gifts {
-	background-image: url("gifts.jpg");
+	background-image: url("gifts.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
 }
 
 #rsvp {
-	background-image: url("rsvp.jpg");
+	background-image: url("rsvp.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
 }
 
 #contact {
-	background-image: url("contact.jpg");
+	background-image: url("contact.jpg")no-repeat;
+	background-size: cover;
+	padding-top: 30em;
+	margin-bottom: 10em;
 }
 
 a:hover {
