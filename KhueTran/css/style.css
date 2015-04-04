@@ -13,10 +13,8 @@ body {
 }
 
 #logo { 
-	display: block;
 	background-image: url("woodgrain.jpg");
 	background-repeat: no-repeat; 
-	padding:1em;
 	vertical-align: center;
 	color:white;
 }
