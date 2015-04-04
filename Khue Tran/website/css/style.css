@@ -26,6 +26,7 @@ aside{
 	background-color:#03D8B1; 
 	padding: 1em;
 	max-width: 33%;
+	clear:both;
 }
 
 #logo { 
@@ -71,6 +72,8 @@ h3 {
 	display: block;
 	border: 66%;
 	clear:both;
+	margin: 1em;
+	padding: 4em;
 }
 
 #wedding {
