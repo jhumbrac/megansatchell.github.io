@@ -155,10 +155,11 @@ a:hover {
 
 .feature {
 	float: left;
-	width: 260px;
+	width: 33%;
   	height: 300px;
 	padding: 20px;
 	margin: 0;
+	clear:both;
 }
 
 .feature a {
@@ -173,10 +174,11 @@ a:hover {
 
 .feature2 {
 	float: left;
-	width: 260px;
+	width: 33%;
   	height: 500px;
 	padding: 20px;
 	margin: 0;
+	clear:both;
 }
 
 .feature2 a {
