@@ -162,24 +162,6 @@ a:hover {
 	text-decoration: none;
 }
 
-.column {
-	float: left;
-	width: 466px;
-  	height: 300px;
-	padding: 20px;
-	margin: 0 2em;
-}
-
-#column a {
-	border:.15em #fff solid;
-	color:#fff;
-	display:block;
-	padding:1em 0;
-	text-align:center;
-	text-decoration:none;
-	width:12em;
-}
-
 .bigcolumn {
 	float: left;
 	width: 410px;
@@ -198,6 +180,23 @@ a:hover {
 	width:12em;
 }
 
+.column {
+	float: left;
+	width: 375px;
+  	height: 300px;
+	padding: 10px;
+	margin: 0 2em;
+}
+
+#column a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:1em 0;
+	text-align:center;
+	text-decoration:none;
+	width:12em;
+}
 
 .familycolumn {
 	float: left;
