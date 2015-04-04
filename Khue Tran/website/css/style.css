@@ -67,10 +67,10 @@ h3 {
 }
 
 #heart{
-	text-align: center;
+	float: left;
 	background-image: url("heart.png");
 	max-width: 66%;
-	img:center;
+	clear:both;
 }
 
 #wedding {
