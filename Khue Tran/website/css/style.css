@@ -12,6 +12,7 @@ a {
 	vertical-align: middle;
 	background-color: #45672A;
 	border: 33%;
+	max-width: 33%;
 	border-radius: 50%;
 	float: right;
 	display: block;
