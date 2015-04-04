@@ -42,6 +42,7 @@ nav {
 	display: block;
 	float: left;
 	margin: 1em 0 3em 1em;
+	clear:both;
 }
 
 nav a {
