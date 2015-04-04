@@ -58,6 +58,13 @@ h3 {
 
 }
 
+h4 { 
+	font-size: 1em;
+	color:#654A29;
+	font-family: 'Satisfy', sans-serif;
+
+}
+
 #welcome {
 	height:500px;
 	border:.5em solid #654A29;
