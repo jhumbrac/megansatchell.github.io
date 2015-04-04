@@ -58,11 +58,13 @@ h3 {
 
 }
 
-.welcome{
-	float: left;
-	display: block;
-	border: 66%;
-	background-image: url("heart.png");
+#welcome {
+	height:500px;
+	border:.5em solid #654A29;
+	margin: 1em;
+	padding: 4em;
+	max-width: 66%;
+	clear:both;
 }
 
 #wedding {
@@ -80,6 +82,7 @@ h3 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
+	clear:both;
 }
 
 #locations {
@@ -88,6 +91,7 @@ h3 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
+	clear:both;
 }
 
 #gifts {
@@ -96,6 +100,7 @@ h3 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
+	clear:both;
 }
 
 #rsvp {
@@ -104,6 +109,7 @@ h3 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
+	clear:both;
 }
 
 #contact {
@@ -112,10 +118,7 @@ h3 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
-}
-
-#content {
-
+	clear:both;
 }
 
 a:hover {
