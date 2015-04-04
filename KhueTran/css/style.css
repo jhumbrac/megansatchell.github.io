@@ -6,15 +6,11 @@ body {
 	font-family: 'Karma', serif;
 }
 
-.logo {
-	background-image: url("woodgrain.jpg");
-}
-
 h1 {
 	font-size: 4em;
 	font-style: bold;
 	font-family: 'Satisfy', sans-serif;
-	color:#fff;
+	color:#697C46;
 	margin: 0 0 0 1em;
 	float: left;
 }
@@ -22,7 +18,7 @@ h1 {
 
 h2 {
 	font-size: 2em;
-	color: #fff;
+	color: #697C46
 	font-family: 'Satisfy', sans-serif;
 	margin: 0 0 0 1em;
 	float: left;
