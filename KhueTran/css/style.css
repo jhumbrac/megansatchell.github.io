@@ -80,6 +80,7 @@ a {
 	margin-top: 1em;
 }
 .feature {
+	display: block;
 	float: left;
 	width: 260px;
   	height: 300px;
