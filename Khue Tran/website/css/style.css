@@ -156,7 +156,25 @@ a:hover {
 	margin: 0 2em;
 }
 
-#columns a {
+#column a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:1em 0;
+	text-align:center;
+	text-decoration:none;
+	width:12em;
+}
+
+.bigcolumn {
+	float: left;
+	width: 400px;
+  	height: 300px;
+	padding: 20px;
+	margin: 0 2em;
+}
+
+#bigcolumn a {
 	border:.15em #fff solid;
 	color:#fff;
 	display:block;
