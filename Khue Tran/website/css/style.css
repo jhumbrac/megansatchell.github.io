@@ -80,6 +80,7 @@ h4 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
+	background-image: url("wedding");
 	clear:both;
 }
 
@@ -89,6 +90,7 @@ h4 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
+	background-image: url("pool.png");
 	clear:both;
 }
 
@@ -98,7 +100,7 @@ h4 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
-	background-image: url("Tahiti-b.jpg");
+	background-image: url("mn.jpg");
 	clear:both;
 }
 
@@ -108,6 +110,7 @@ h4 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
+	background-image: url("Tahiti-b.jpg");
 	clear:both;
 }
 
@@ -117,6 +120,7 @@ h4 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
+	background-image: url("dancing.jpg");
 	clear:both;
 }
 
@@ -126,6 +130,7 @@ h4 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
+	background-image: url("Babys-Breath.jpg");
 	clear:both;
 }
 
