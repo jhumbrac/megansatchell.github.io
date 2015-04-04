@@ -127,13 +127,14 @@ color:black;
 text-decoration: none;
 }
 
-#columns {
-	float:left;
-	columns: 3;
-	width:66%;
-	margin:1em;
-	clear:both;
+.column {
+	float: left;
+	width: 260px;
+  	height: 300px;
+	padding: 20px;
+	margin: 0;
 }
+
 #columns a {
 	border:.15em #fff solid;
 	color:#fff;
