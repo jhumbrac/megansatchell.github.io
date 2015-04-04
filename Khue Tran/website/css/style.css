@@ -11,7 +11,7 @@ a {
 	text-align: center;
 	font-color: black;
 	background-color: #45672A;
-	max-width: 33%;
+	border: 33%;
 	height: 175px;
 	float: right;
 	display: block;
