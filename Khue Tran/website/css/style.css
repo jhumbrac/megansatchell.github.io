@@ -9,6 +9,7 @@ body {
 a {
 	text-decoration: none;
 	text-align: center;
+	vertical-align: middle;
 	font-color: black;
 	background-color: #45672A;
 	max-width: 33%;
