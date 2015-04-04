@@ -52,7 +52,6 @@ h4 {
 nav {
 	float: left;
 	margin: 1em;
-	clear:both;
 }
 
 nav a {
@@ -91,7 +90,6 @@ a {
 }
 #welcome {
 	height:800px;
-	float:left;
 	margin: 1em;
 	padding: 4em;
 	background-image: url("welcome.jpg");
