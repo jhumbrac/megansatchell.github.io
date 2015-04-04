@@ -102,11 +102,9 @@ a {
 
 .banner {
 	display: block;
-	max-width: 1400px;
+	height:416;
 	padding: 300px;
 	text-align: center;
-	vertical-align: middle;
-	background-repeat: no-repeat;
 	clear:both;
 	margin: 1em 0;
 	border:3em;
