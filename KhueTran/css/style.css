@@ -59,10 +59,10 @@ nav a {
 	text-align: center;
 	background-color: #697C46;
 	padding: 1em;
+	margin-bottom: 3em;
 	color: white;
 	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
-	clear:both;
 }
 
 nav a:hover {
