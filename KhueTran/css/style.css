@@ -87,6 +87,43 @@ a {
 	margin-top: 1em;
 	clear:both;
 }
+.feature {
+	float: left;
+	width: 33%;
+  	height: 300px;
+	padding: 20px;
+	margin: 0;
+	clear:both;
+}
+
+.feature a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:3em 0;
+	text-align:center;
+	text-decoration:none;
+	clear:both;
+}
+
+.feature2 {
+	float: left;
+	width: 33%;
+  	height: 500px;
+	padding: 20px;
+	margin: 0;
+	clear:both;
+}
+
+.feature2 a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:3em 0;
+	text-align:center;
+	text-decoration:none;
+	clear:both;
+}
 
 #welcome {
 	height:672px;
@@ -148,47 +185,6 @@ a:hover {
 	background-color:#03D8B1;
 	color:black;
 	text-decoration: none;
-}
-.banner {
-
-}
-
-.feature {
-	float: left;
-	width: 33%;
-  	height: 300px;
-	padding: 20px;
-	margin: 0;
-	clear:both;
-}
-
-.feature a {
-	border:.15em #fff solid;
-	color:#fff;
-	display:block;
-	padding:3em 0;
-	text-align:center;
-	text-decoration:none;
-	clear:both;
-}
-
-.feature2 {
-	float: left;
-	width: 33%;
-  	height: 500px;
-	padding: 20px;
-	margin: 0;
-	clear:both;
-}
-
-.feature2 a {
-	border:.15em #fff solid;
-	color:#fff;
-	display:block;
-	padding:3em 0;
-	text-align:center;
-	text-decoration:none;
-	clear:both;
 }
 
 Footer {
