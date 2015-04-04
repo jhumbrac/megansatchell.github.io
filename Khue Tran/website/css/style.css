@@ -9,7 +9,7 @@ body {
 a {
 	text-decoration: none;
 	text-align: center;
-	font-color: black;
+	vertical-align: middle;
 	background-color: #45672A;
 	border: 33%;
 	height: 175px;
