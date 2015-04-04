@@ -23,14 +23,6 @@ a {
 
 }
 
-aside{
-	float:right;
-	background-color:#03D8B1; 
-	padding: 1em;
-	max-width: 33%;
-	clear:both;
-}
-
 #logo { 
 	float:left;
 	display: block;
@@ -48,7 +40,7 @@ h1 {
 	font-size: 4em;
 	font-style: bold;
 	font-family: 'Satisfy', sans-serif;
-	color:#45672A;
+	color:#fff;
 	margin: 0 0 0 .5em;
 }
 
