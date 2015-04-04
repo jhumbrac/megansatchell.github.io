@@ -129,7 +129,7 @@ text-decoration: none;
 
 #columns {
 	float:left;
-	columns: 20% 3;
+	columns: 3;
 	width:66%;
 	margin:1em;
 	clear:both;
