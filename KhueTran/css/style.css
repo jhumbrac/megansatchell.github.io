@@ -40,6 +40,7 @@ h4 {
 	background-image: url("woodgrain.jpg");
 	margin: 1em;
 	clear:both;
+	max-width: 1400px;
 }
 
 .maxwidth {
