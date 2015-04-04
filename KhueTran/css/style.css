@@ -110,6 +110,7 @@ a {
 }
 
 #welcome {
+	display: block;
 	background: url("welcome.jpg")no-repeat;
 	background-size: cover;
 	padding-top: 30em;
