@@ -59,14 +59,14 @@ h3 {
 }
 
 h4 { 
-	font-size: 1em;
+	font-size: 2em;
 	color:#654A29;
 	font-family: 'Satisfy', sans-serif;
 
 }
 
 #welcome {
-	height:500px;
+	height:800px;
 	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
@@ -75,17 +75,17 @@ h4 {
 }
 
 #wedding {
-	height:500px;
+	height:400px;
 	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
-	background-image: url("wedding");
+	background-image: url("wedding.jpg");
 	clear:both;
 }
 
 #events {
-	height:500px;
+	height:400px;
 	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
@@ -95,7 +95,7 @@ h4 {
 }
 
 #locations {
-	height:500px;
+	height:400px;
 	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
@@ -105,7 +105,7 @@ h4 {
 }
 
 #gifts {
-	height:500px;
+	height:400px;
 	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
@@ -115,7 +115,7 @@ h4 {
 }
 
 #rsvp {
-	height:500px;
+	height:400px;
 	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
@@ -125,7 +125,7 @@ h4 {
 }
 
 #contact {
-	height:500px;
+	height:400px;
 	border:.5em solid #654A29;
 	margin: 1em;
 	padding: 4em;
