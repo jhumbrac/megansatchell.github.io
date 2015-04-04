@@ -168,10 +168,10 @@ a:hover {
 
 .bigcolumn {
 	float: left;
-	width: 500px;
+	width: 450px;
   	height: 600px;
 	padding: 10px;
-	margin: 0 1em 1em 0;
+	margin: 0 2em;
 }
 
 #bigcolumn a {
