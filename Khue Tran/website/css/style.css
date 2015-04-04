@@ -6,13 +6,16 @@ body {
 	font-family: 'Karma', serif;
 }
 
+nav {
+	max-width: 33%;
+	}
+
 a {
 	text-decoration: none;
 	text-align: center;
 	vertical-align: middle;
 	background-color: #45672A;
 	border: 33%;
-	max-width: 33%;
 	border-radius: 50%;
 	float: right;
 	display: block;
