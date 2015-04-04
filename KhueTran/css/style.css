@@ -120,7 +120,7 @@ a {
 
 #wedding {
 	background-image: url("wedding.jpg")no-repeat;
-	background-size: cover;
+	background-size: auto;
 	padding-top: 30em;
 	margin-bottom: 10em;
 }
