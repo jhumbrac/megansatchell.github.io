@@ -88,7 +88,6 @@ a {
 	width: 33%;
 	padding: 20px;
 	border:3em;
-	border-style: solid black;
 }
 
 .feature a {
@@ -109,7 +108,7 @@ a {
 	background-repeat: no-repeat;
 	clear:both;
 	margin: 1em 0;
-	border:2em;
+	border:3em;
 	padding:3em;
 }
 #welcome {
