@@ -130,6 +130,11 @@ p {
 	width: 66%;
 }
 
+Footer {
+	text-align: center;
+	background-color: #fff;
+	color:white;
+} 
 .clearfix:after {
   visibility: hidden;
   display: block;
