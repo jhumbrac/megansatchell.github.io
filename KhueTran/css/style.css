@@ -6,38 +6,6 @@ body {
 	font-family: 'Karma', serif;
 }
 
-.maxwidth {
-	max-width: 1400px;
-	margin: 0 auto;
-	padding: 0 1em;
-}
-
-#logo { 
-	background-image: url("woodgrain.jpg");
-}
-
-nav {
-	float: left;
-	margin: 1em;
-}
-
-nav a {
-	text-decoration: none;
-	text-align: center;
-	background-color: #697C46;
-	padding: 1em;
-	color: white;
-	font-family: 'Raleway', sans-serif;
-	font-size: 1em;
-	clear:both;
-}
-
-nav a:hover {
-	background-color:rgba(105, 124, 70, 0.6);
-	color:black;
-	text-decoration: none;
-}
-
 h1 {
 	font-size: 4em;
 	font-style: bold;
@@ -66,6 +34,38 @@ h4 {
 	color:#654A29;
 	font-family: 'Karma', serif;
 	margin: 0 0 0 1em;
+}
+
+#logo { 
+	background-image: url("woodgrain.jpg");
+}
+
+.maxwidth {
+	max-width: 1400px;
+	margin: 0 auto;
+	padding: 0 1em;
+}
+
+nav {
+	float: left;
+	margin: 1em;
+}
+
+nav a {
+	text-decoration: none;
+	text-align: center;
+	background-color: #697C46;
+	padding: 1em;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+	clear:both;
+}
+
+nav a:hover {
+	background-color:rgba(105, 124, 70, 0.6);
+	color:black;
+	text-decoration: none;
 }
 
 p {
