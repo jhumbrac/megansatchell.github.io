@@ -50,6 +50,7 @@ h4 {
 }
 
 nav {
+	display: block;
 	float: left;
 	margin: 1em;
 }
