@@ -55,7 +55,6 @@ h3 {
 	font-size: 2em;
 	color:#654A29;
 	font-family: 'Satisfy', sans-serif;
-
 }
 
 h4 { 
@@ -63,7 +62,11 @@ h4 {
 	color:#654A29;
 	font-family: 'Karma', serif;
 	margin: 0 0 0 1em;
+}
 
+p {
+	font-family: 'Karma', serif;
+	width: 66%;
 }
 
 #welcome {
@@ -106,7 +109,6 @@ h4 {
 	max-width: 66%;
 	background-image: url("locations.jpg");
 	clear:both;
-	img:center;
 }
 
 #gifts {
@@ -141,9 +143,9 @@ h4 {
 }
 
 a:hover {
-background-color:#03D8B1;
-color:black;
-text-decoration: none;
+	background-color:#03D8B1;
+	color:black;
+	text-decoration: none;
 }
 
 .column {
@@ -164,10 +166,11 @@ text-decoration: none;
 	width:12em;
 }
 
-p {
-	font-family: 'Karma', serif;
-	width: 66%;
+#moodboard {
+	margin-left: auto;
+    margin-right: auto;
 }
+
 
 Footer {
 	text-align: center;
@@ -175,6 +178,7 @@ Footer {
 	background-color: #000;
 	color:white;
 } 
+
 .clearfix:after {
   visibility: hidden;
   display: block;
