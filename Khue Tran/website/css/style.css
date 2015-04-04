@@ -127,11 +127,11 @@ color:black;
 text-decoration: none;
 }
 
-.columns {
+#columns {
 	float:left;
 	width:66%;
 }
-.columns a {
+#columns a {
 	border:.15em #fff solid;
 	color:#fff;
 	display:block;
