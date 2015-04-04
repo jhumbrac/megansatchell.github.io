@@ -110,7 +110,7 @@ a {
 }
 
 #welcome {
-	background: url("welcome.jpg")no-repeat fixed center top;
+	background: url("welcome.jpg")no-repeat;
 	background-size: cover;
 	padding-top: 30em;
 }
