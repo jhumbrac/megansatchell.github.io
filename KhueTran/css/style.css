@@ -89,11 +89,10 @@ a {
 }
 .feature {
 	float: left;
-	width: 33%;
+	width: 260px;
   	height: 300px;
 	padding: 20px;
 	margin: 0;
-	clear:both;
 }
 
 .feature a {
@@ -108,11 +107,10 @@ a {
 
 .feature2 {
 	float: left;
-	width: 33%;
-  	height: 500px;
+	width: 260px;
+  	height: 300px;
 	padding: 20px;
 	margin: 0;
-	clear:both;
 }
 
 .feature2 a {
