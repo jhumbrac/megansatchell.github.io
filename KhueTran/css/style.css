@@ -20,7 +20,6 @@ a {
 }
 
 #logo { 
-	float:left;
 	display: block;
 	width: 100%;
 	background-image: url("woodgrain.jpg");
