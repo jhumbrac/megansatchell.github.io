@@ -111,7 +111,8 @@ h4 {
 	margin: 1em;
 	padding: 4em;
 	max-width: 66%;
-	background-image: url("Tahiti-b.jpg");
+	background-image: url("gifts.jpg");
+	background-repeat: no-repeat; 
 	clear:both;
 }
 
