@@ -6,6 +6,11 @@ body {
 	font-family: 'Karma', serif;
 }
 
+#logo {
+	display: block;
+	max-width: 33%
+}
+
 h1 {
 	font-size: 4em;
 	font-style: bold;
