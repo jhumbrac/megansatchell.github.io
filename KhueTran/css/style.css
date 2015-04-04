@@ -149,27 +149,11 @@ a:hover {
 	color:black;
 	text-decoration: none;
 }
+.banner {
 
-.bigcolumn {
-	float: left;
-	width: 350px;
-  	height: 700px;
-	padding: 5px;
-	margin: 0 2em;
-	clear: both;
 }
 
-#bigcolumn a {
-	border:.15em #fff solid;
-	color:#fff;
-	display:block;
-	padding:1em 0;
-	text-align:center;
-	text-decoration:none;
-	width:12em;
-}
-
-.column {
+.feature {
 	float: left;
 	width: 375px;
   	height: 300px;
@@ -178,18 +162,33 @@ a:hover {
 	clear:both;
 }
 
-#column a {
+.feature a {
 	border:.15em #fff solid;
 	color:#fff;
 	display:block;
 	padding:3em 0;
 	text-align:center;
 	text-decoration:none;
+	clear:both;
 }
 
-#moodboard {
-	padding: 20px;
+.feature2 {
+	float: left;
+	width: 375px;
+  	height: 700px;
+	padding: 10px;
 	margin: 0 2em;
+	clear:both;
+}
+
+.feature2 a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:3em 0;
+	text-align:center;
+	text-decoration:none;
+	clear:both;
 }
 
 Footer {
