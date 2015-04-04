@@ -11,6 +11,16 @@ body {
 	margin: 0 auto;
 	padding: 0 1em;
 }
+
+#logo { 
+	display: block;
+	background-image: url("woodgrain.jpg");
+	background-repeat: no-repeat; 
+	padding:1em;
+	vertical-align: center;
+	color:white;
+}
+
 nav {
 	float: left;
 	margin: 1em;
@@ -33,16 +43,6 @@ nav a:hover {
 	text-decoration: none;
 }
 
-#logo { 
-	display: block;
-	width: 100%;
-	background-image: url("woodgrain.jpg");
-	background-repeat: no-repeat; 
-	padding:1em;
-	vertical-align: center;
-	margin: 1em 0 3em 0;
-	color:white;
-}
 
 
 h1 {
