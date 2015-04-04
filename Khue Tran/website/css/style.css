@@ -184,13 +184,26 @@ a:hover {
 	width:12em;
 }
 
-.family {
+
+.familycolumn {
 	float: left;
 	width: 300px;
   	height: 300px;
 	padding: 20px;
 	margin: 0 2em;
 }
+
+#familycolumn a {
+	border:.15em #fff solid;
+	color:#fff;
+	display:block;
+	padding:1em 0;
+	text-align:center;
+	text-decoration:none;
+	width:12em;
+}
+
+
 
 #moodboard {
 	padding: 20px;
