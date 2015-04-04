@@ -111,7 +111,6 @@ a {
 
 #welcome {
 	display: block;
-	float:left;
 	background: url("welcome.jpg")no-repeat;
 	background-size: cover;
 	padding-top: 30em;
