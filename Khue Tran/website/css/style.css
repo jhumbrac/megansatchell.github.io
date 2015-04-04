@@ -130,6 +130,8 @@ text-decoration: none;
 #columns {
 	float:left;
 	width:66%;
+	margin:1em;
+	clear:both;
 }
 #columns a {
 	border:.15em #fff solid;
