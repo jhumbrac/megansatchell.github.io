@@ -24,7 +24,7 @@ a {
 #logo { 
 	float:left;
 	display: block;
-	width: 66%;
+	max-width: 1238px;
 	background-image: url("woodgrain.jpg");
 	background-repeat: no-repeat; 
 	padding:1em;
